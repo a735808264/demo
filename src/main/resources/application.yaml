@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    username: root
+    password: a13824547394
+    url: jdbc:mysql://127.0.0.1:3306/实验?characterEncoding=utf8&useUnicode=true&useSSL=false&serverTimezone=UTC
+    driver‐class‐name: com.mysql.cj.jdbc.Driver
+logging:
+  file:
+    max-size: 30MB
